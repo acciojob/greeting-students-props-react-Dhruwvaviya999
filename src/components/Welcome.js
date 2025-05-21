@@ -8,3 +8,5 @@ function Welcome({name}) {
     </p>
   )
 }
+
+export default Welcome;
